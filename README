@@ -1,0 +1,10 @@
+Helper functions for JS is simple helper functions i've required for projects so i've created them.
+
+Date - methods 
+
+Date.convert(dd-mm-yy);
+
+allows you to return a date in different day month year formats, simply call Date.convert() on your date objects and specfic which format you require and which order. 
+
+for example:
+dd-mm-yy
