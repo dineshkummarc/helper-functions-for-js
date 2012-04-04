@@ -1,7 +1,7 @@
 Date.prototype.convert = function(method)
 {   
         var curr_date = this.getDate();
-        var curr_month = this.getMonth() + 1; //months are zero based
+        var curr_month = this.getMonth() + 1; 
         var curr_year = this.getFullYear();
         var date = '';
 
